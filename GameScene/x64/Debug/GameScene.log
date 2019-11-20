@@ -1,0 +1,4 @@
+﻿C:\Users\Lewis\OneDrive\Education\University\Year 3\Games Graphics Programming\Assignment\GameScene\GameScene\PixelShader.hlsl(29,9-46): warning X3206: implicit truncation of vector type
+FXC : error X3084: 'numthreads(X,Y,Z)' attribute expected, where 'X,Y,Z' are the dimensions of the thread group
+  
+  compilation failed; no code produced

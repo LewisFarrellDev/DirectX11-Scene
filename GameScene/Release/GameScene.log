@@ -1,0 +1,18 @@
+﻿  ModelClass.cpp
+c:\users\lewis\onedrive\education\university\year 3\games graphics programming\assignment\gamescene\gamescene\modelclass.cpp(45): warning C4018: '<': signed/unsigned mismatch
+c:\users\lewis\onedrive\education\university\year 3\games graphics programming\assignment\gamescene\gamescene\modelclass.cpp(377): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\lewis\onedrive\education\university\year 3\games graphics programming\assignment\gamescene\gamescene\modelclass.cpp(395): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\lewis\onedrive\education\university\year 3\games graphics programming\assignment\gamescene\gamescene\modelclass.cpp(397): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\lewis\onedrive\education\university\year 3\games graphics programming\assignment\gamescene\gamescene\modelclass.cpp(409): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\lewis\onedrive\education\university\year 3\games graphics programming\assignment\gamescene\gamescene\modelclass.cpp(436): warning C4018: '<': signed/unsigned mismatch
+c:\users\lewis\onedrive\education\university\year 3\games graphics programming\assignment\gamescene\gamescene\modelclass.cpp(506): warning C4018: '<': signed/unsigned mismatch
+c:\users\lewis\onedrive\education\university\year 3\games graphics programming\assignment\gamescene\gamescene\modelclass.cpp(641): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+directxtk.lib(WICTextureLoader.obj) : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:ICF' specification
+  Generating code
+  0 of 944 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+directxtk.lib(pch.obj) : warning LNK4099: PDB 'DirectXTK.pdb' was not found with 'directxtk.lib(pch.obj)' or at 'C:\Users\Lewis\OneDrive\Education\University\Year 3\Games Graphics Programming\Assignment\GameScene\Release\DirectXTK.pdb'; linking object as if no debug info
+directxtk.lib(WICTextureLoader.obj) : warning LNK4099: PDB 'DirectXTK.pdb' was not found with 'directxtk.lib(WICTextureLoader.obj)' or at 'C:\Users\Lewis\OneDrive\Education\University\Year 3\Games Graphics Programming\Assignment\GameScene\Release\DirectXTK.pdb'; linking object as if no debug info
+  GameScene.vcxproj -> C:\Users\Lewis\OneDrive\Education\University\Year 3\Games Graphics Programming\Assignment\GameScene\Release\GameScene.exe

@@ -1,0 +1,10 @@
+﻿  ModelClass.cpp
+c:\users\lewis\onedrive\education\university\year 3\games graphics programming\assignment\gamescene\gamescene\modelclass.cpp(45): warning C4018: '<': signed/unsigned mismatch
+c:\users\lewis\onedrive\education\university\year 3\games graphics programming\assignment\gamescene\gamescene\modelclass.cpp(377): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\lewis\onedrive\education\university\year 3\games graphics programming\assignment\gamescene\gamescene\modelclass.cpp(395): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\lewis\onedrive\education\university\year 3\games graphics programming\assignment\gamescene\gamescene\modelclass.cpp(397): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\lewis\onedrive\education\university\year 3\games graphics programming\assignment\gamescene\gamescene\modelclass.cpp(409): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\lewis\onedrive\education\university\year 3\games graphics programming\assignment\gamescene\gamescene\modelclass.cpp(436): warning C4018: '<': signed/unsigned mismatch
+c:\users\lewis\onedrive\education\university\year 3\games graphics programming\assignment\gamescene\gamescene\modelclass.cpp(506): warning C4018: '<': signed/unsigned mismatch
+c:\users\lewis\onedrive\education\university\year 3\games graphics programming\assignment\gamescene\gamescene\modelclass.cpp(641): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  GameScene.vcxproj -> C:\Users\Lewis\OneDrive\Education\University\Year 3\Games Graphics Programming\Assignment\GameScene\Debug\GameScene.exe
